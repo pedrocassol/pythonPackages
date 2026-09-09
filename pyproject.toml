@@ -7,7 +7,7 @@ version_scheme = "no-guess-dev"
 local_scheme = "no-local-version"
 
 [project]
-name = "henryzord_pythonPackages"
+name = "pedrocassol_pythonPackages"
 dynamic = ["version"]
 description = "Um pacote de rolagem de dados para jogos de RPG"
 readme = "README.md"
@@ -15,7 +15,7 @@ requires-python = ">=3.9"
 license = {text = "MIT"}
 
 authors = [
-    {name = "Henry Cagnini"}
+    {name = "Pedro Cassol"}
 ]
 
 classifiers = [
