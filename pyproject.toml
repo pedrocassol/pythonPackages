@@ -26,4 +26,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/CTISM-Prof-Henry/pythonPackages"
+Homepage = "https://github.com/pedrocassol/pythonPackages"
